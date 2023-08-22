@@ -1,0 +1,14 @@
+.ms-HorizontalNavItem-linkText,
+.ms-HorizontalNavItem-link{
+    color:#a98044 !important;
+    font-weight: 500;
+}
+.is-selected{
+    border-bottom: 2px solid #a98044 !important;
+}
+.ms-HorizontalNav-chevronDown{
+    color: #a98044 !important;
+}
+.ms-ContextualMenu-itemText{
+    color: #a98044 !important;
+}
